@@ -1,0 +1,125 @@
+{
+    "LongName": "Data Dictionary for nebula_101_all_questionnaire_scores.json",
+    "Description": "This JSON file provides a data dictionary for the corresponding TSV file.",
+    "participant_id": {
+        "LongName": "Code assigned to participant",
+        "Description": "participant (Data type: nan, Scale type: nan, Score type: nan)"
+    },
+    "age": {
+        "LongName": "age",
+        "Description": "age of the participant at study start (Data type: ordinal, Scale type: nan, Score type: nan)"
+    },
+    "sex": {
+        "LongName": "sex",
+        "Description": "biological sex declared at birth (Data type: categorical, Scale type: nan, Score type: nan)"
+    },
+    "edu": {
+        "LongName": "edu",
+        "Description": "years of education (Data type: ordinal, Scale type: nan, Score type: nan)"
+    },
+    "nlang": {
+        "LongName": "Number of languages",
+        "Description": "Number of languages declared by the participant"
+    },
+    "ahrq_score": {
+        "LongName": "Adult Reading History Questionnaire",
+        "Description": "index of reading difficulty RD during childhood. Reverse score. A cutoff of .4 is indicative of RD with sensitivity 81.8 and specificity 77.5% (Data type: ordinal, Scale type: likert 5pt, Score type: reversed score, cutoff .4 for history of reading difficulty in childhood. Point obtained divided by 92 (total obtainable points))"
+    },
+    "manipulationfactor": {
+        "LongName": "Internal Reasoning Questionnaire",
+        "Description": "proficiency with manipulating mental representations (Data type: ordinal, Scale type: likert 5pt, Score type: average of the answers for the manipulation factor)"
+    },
+    "orthographicfactor": {
+        "LongName": "Internal Reasoning Questionnaire",
+        "Description": "capacity for visualizing language as it is written (Data type: ordinal, Scale type: likert 5pt, Score type: average of the answers for the orthographic factor)"
+    },
+    "verbalfactor": {
+        "LongName": "Internal Reasoning Questionnaire",
+        "Description": "capacity for experiencing thought in a spoken inner voice (Data type: ordinal, Scale type: likert 5pt, Score type: average of the answers for the verbal factor)"
+    },
+    "visualfactor": {
+        "LongName": "Internal Reasoning Questionnaire",
+        "Description": "capacity for visual imagery (Data type: ordinal, Scale type: likert 5pt, Score type: average of the answers for the visual factor)"
+    },
+    "ideal_l2_self": {
+        "LongName": "Motivation Factor Questionnaire",
+        "Description": "how learning FL will improve the future self (Data type: ordinal, Scale type: likert 5pt, Score type: the sum of the total points for the construct, divided by the total achievable points, multiplied by 100)"
+    },
+    "instrumentality": {
+        "LongName": "Motivation Factor Questionnaire",
+        "Description": "how useful learning FL is (Data type: ordinal, Scale type: likert 5pt, Score type: the sum of the total points for the construct, divided by the total achievable points, multiplied by 100)"
+    },
+    "intl_contact": {
+        "LongName": "Motivation Factor Questionnaire",
+        "Description": "propensity for using FL for international contact (Data type: ordinal, Scale type: likert 5pt, Score type: the sum of the total points for the construct, divided by the total achievable points, multiplied by 100)"
+    },
+    "l2_interest": {
+        "LongName": "Motivation Factor Questionnaire",
+        "Description": "interest in attaining FL for culture (Data type: ordinal, Scale type: likert 5pt, Score type: the sum of the total points for the construct, divided by the total achievable points, multiplied by 100)"
+    },
+    "l2_anxiety": {
+        "LongName": "Motivation Factor Questionnaire",
+        "Description": "anxiety using FL (Data type: ordinal, Scale type: likert 5pt, Score type: the sum of the total points for the construct, divided by the total achievable points, multiplied by 100)"
+    },
+    "l2_confidence": {
+        "LongName": "Motivation Factor Questionnaire",
+        "Description": "confidence attaining and using FL (Data type: ordinal, Scale type: likert 5pt, Score type: the sum of the total points for the construct, divided by the total achievable points, multiplied by 100)"
+    },
+    "milieu": {
+        "LongName": "Motivation Factor Questionnaire",
+        "Description": "how well the respondent's environment sees FL attainment (Data type: ordinal, Scale type: likert 5pt, Score type: the sum of the total points for the construct, divided by the total achievable points, multiplied by 100)"
+    },
+    "usage_willingness": {
+        "LongName": "Motivation Factor Questionnaire",
+        "Description": "propensity to use FL (Data type: ordinal, Scale type: likert 5pt, Score type: the sum of the total points for the construct, divided by the total achievable points, multiplied by 100)"
+    },
+    "ind_mus_train_imt": {
+        "LongName": "Music Use and Background Questionnaire",
+        "Description": "index of musical training (Data type: ordinal, Scale type: computed numerical value, Score type: highest school training level + other training + examinations passed)"
+    },
+    "ind_mus_listening_iml": {
+        "LongName": "Music Use and Background Questionnaire",
+        "Description": "index of music listening (Data type: ordinal, Scale type: computed numerical value, Score type: frequency/week * duration/day)"
+    },
+    "mus_instr_play_imip": {
+        "LongName": "Music Use and Background Questionnaire",
+        "Description": "index of musical instrument playing (Data type: ordinal, Scale type: computed numerical value, Score type: years of playing * hours a day / time of last practice session)"
+    },
+    "cognitive_and_emotional_regulation": {
+        "LongName": "Music Use and Background Questionnaire",
+        "Description": "how much music serves to regulate mood (Data type: ordinal, Scale type: likert 6 pt, Score type: sum of the total achieved points)"
+    },
+    "social_connection": {
+        "LongName": "Music Use and Background Questionnaire",
+        "Description": "how much music is used in social contexts (Data type: ordinal, Scale type: likert 6 pt, Score type: sum of the total achieved points)"
+    },
+    "engaged_production": {
+        "LongName": "Music Use and Background Questionnaire",
+        "Description": "how much music is used in engaged production (Data type: ordinal, Scale type: likert 6 pt, Score type: sum of the total achieved points)"
+    },
+    "dance": {
+        "LongName": "Music Use and Background Questionnaire",
+        "Description": "how much music is linked to dance (Data type: ordinal, Scale type: likert 6 pt, Score type: sum of the total achieved points)"
+    },
+    "physical_exercise": {
+        "LongName": "Music Use and Background Questionnaire",
+        "Description": "how much music is linked to physical exercise (Data type: ordinal, Scale type: likert 6 pt, Score type: sum of the total achieved points)"
+    },
+    "swt_score_cs": {
+        "LongName": "Code Switching",
+        "Description": "Contextual code-switching habits"
+    },
+    "swt_score_us": {
+        "LongName": "Code Switching",
+        "Description": "Involuntary code-switching habits"
+    },
+    "hand_index": {
+        "LongName": "Edinburgh Handedness Index 10-item",
+        "Description": "handedness of the participant according to the Edinburgh 10-item Handedness Test (Data type: ordinal, Scale type: slider from -1 to 1, Score type: the sum of the total points for the construct, multiplied by 100 and divided by 10 (due to 10 questions))"
+    },
+    "bsmss": {
+        "LongName": "Barratt Simplified Measure of Social Status",
+        "Description": "Barratt's simplified measure of social status (Data type: ordinal, Scale type: String recoded as number, Score type: TOTAL EDUCATION + TOTAL OCCUPATION derived by edu of participant, parents, spouse and occupation of participant, parents, spouse. Formula in method document)"
+    }
+}
+

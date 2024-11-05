@@ -1,0 +1,39 @@
+{
+    "longname": "California verbal learning task",
+    "participant_id": {
+        "description": "participant id",
+        "derivative": false
+    },
+    "cvlt_imm_1": {
+        "description": "immediate recall list A trial 1",
+        "derivative": false
+    },
+    "cvlt_imm_2": {
+        "description": "immediate recall list A trial 2",
+        "derivative": false
+    },
+    "cvlt_imm_3": {
+        "description": "immediate recall list A trial 3",
+        "derivative": false
+    },
+    "cvlt_imm_4": {
+        "description": "immediate recall list A trial 4",
+        "derivative": false
+    },
+    "cvlt_imm_5": {
+        "description": "immediate recall list A trial 5",
+        "derivative": false
+    },
+    "cvlt_imm_b": {
+        "description": "immediate recall list B trial 1",
+        "derivative": false
+    },
+    "cvlt_short": {
+        "description": "short term recall list A trial 1",
+        "derivative": false
+    },
+    "cvlt_long": {
+        "description": "long term recall list A trial 1 (beware that this is not the long term recognition test, which is in a separate file \"cvltlong\", but the simple delayed recall of list A)",
+        "derivative": false
+    }
+}

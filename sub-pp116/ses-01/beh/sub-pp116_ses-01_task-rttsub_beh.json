@@ -1,0 +1,29 @@
+{
+    "longname": "Revised tempo test - subtractions",
+    "participant_id": {
+        "description": "participant id",
+        "units": "n/a",
+        "levels": "n/a"
+    },
+    "rtt-sub_corr": {
+        "description": "correct responses",
+        "units": "n/a",
+        "levels": {
+            "0": false,
+            "1": true
+        }
+    },
+    "rtt-sub_incorr": {
+        "description": "incorrect responses",
+        "units": "n/a",
+        "levels": {
+            "0": false,
+            "1": true
+        }
+    },
+    "rtt-sub_RT": {
+        "description": "reaction time",
+        "units": "ms",
+        "levels": "n/a"
+    }
+}

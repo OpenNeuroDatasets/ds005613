@@ -1,0 +1,29 @@
+{
+    "longname": "Modern language aptitude test 5",
+    "participant_id": {
+        "description": "participant id",
+        "units": "n/a",
+        "levels": "n/a"
+    },
+    "mlat5_corr": {
+        "description": "correct responses",
+        "units": "n/a",
+        "levels": {
+            "0": false,
+            "1": true
+        }
+    },
+    "mlat5_incorr": {
+        "description": "incorrect responses",
+        "units": "n/a",
+        "levels": {
+            "0": false,
+            "1": true
+        }
+    },
+    "mlat5_RT": {
+        "description": "reaction time",
+        "units": "ms",
+        "levels": "n/a"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "longname": "Text Reading Test: Le Pollueur and L'Alouette",
+    "participant_id": {
+        "description": "participant id",
+        "derivative": false
+    },
+    "pollueur_acc": {
+        "description": "accuracy for text le pollueur (words)",
+        "derivative": false
+    },
+    "pollueur_errors": {
+        "description": "error number for text le pollueur",
+        "derivative": false
+    },
+    "pollueur_mclm": {
+        "description": "(words per minute)-(error number)",
+        "derivative": true
+    },
+    "pollueur_rt_manual": {
+        "description": "reaction time for text le pollueur",
+        "derivative": false
+    },
+    "alouette_acc": {
+        "description": "accuracy for text l'alouette",
+        "derivative": false
+    },
+    "alouette_errors": {
+        "description": "error number for text l'alouette",
+        "derivative": false
+    },
+    "alouette_mclm": {
+        "description": "(words per minute)-(error number)",
+        "derivative": true
+    },
+    "alouette_rt_manual": {
+        "description": "reaction time for text l'alouette",
+        "derivative": false
+    }
+}

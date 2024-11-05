@@ -1,0 +1,169 @@
+{
+    "LongName": "Music Use and Background Questionnaire (MUSEBAQ)",
+    "Description": "This JSON file provides a data dictionary for the MuseBAQ data contained in the corresponding TSV file.",
+    "participant_id": {
+        "Description": "participant ids",
+        "Derivative": false
+    },
+    "time_listen_week": {
+        "Description": "music listening times a week: 1 = <1, 2 = 1-2, 3 = 3-4, 4 = 5-6, 5 = > 6",
+        "Derivative": false
+    },
+    "time_listen_day": {
+        "Description": "music listening times a day: 1 = <1, 2 = 1-2, 3 = 3-4, 4 = 5-6, 5 = > 6",
+        "Derivative": false
+    },
+    "years_practice": {
+        "Description": "years of musical practice: enter years as number",
+        "Derivative": false
+    },
+    "years_practice_peak": {
+        "Description": "practice hours per day at peak interest: enter number",
+        "Derivative": false
+    },
+    "last_time_played": {
+        "Description": "last time played an instrument: 1 = less than a week ago, 2 = less than a month ago, 4 = less than a year ago, 8 = between 1 and 5 years ago, 16 = between 5 and 10 years ago, 32 = more than 10 years ago, 1 = n/a",
+        "Derivative": false
+    },
+    "mus_edu_level": {
+        "Description": "musical education level attained: 0 none, 1 elementary school, 2 secondary/high school, 3 bachelor, 4 master, 5 post university level",
+        "Derivative": false
+    },
+    "other_mus_edu": {
+        "Description": "other types of musical education received: 0 none, 1 self taught, 2 individual private lessons, 3 group private lessons",
+        "Derivative": false
+    },
+    "mus_exam": {
+        "Description": "musical examinations: 0 no, 1 yes",
+        "Derivative": false
+    },
+    "mus_engagement_inspiration": {
+        "Description": "music inspiration source 1 = not concerned 6 strongly agree",
+        "Derivative": false
+    },
+    "mus_engagement_difficultpieces": {
+        "Description": "engaged when studying difficult pieces 1 = not concerned 6 strongly agree",
+        "Derivative": false
+    },
+    "mus_engagement_connection": {
+        "Description": "social connection through music 1 = not concerned 6 strongly agree",
+        "Derivative": false
+    },
+    "mus_engagement_physicalexercise": {
+        "Description": "engaged with music for physical exercise 1 = not concerned 6 strongly agree",
+        "Derivative": false
+    },
+    "mus_engagement_relaxation": {
+        "Description": "music for better relaxation 1 = not concerned 6 strongly agree",
+        "Derivative": false
+    },
+    "mus_engagement_gratification": {
+        "Description": "music for gratification 1 = not concerned 6 strongly agree",
+        "Derivative": false
+    },
+    "mus_engagement_newmusic": {
+        "Description": "feels engaged by new music 1 = not concerned 6 strongly agree",
+        "Derivative": false
+    },
+    "mus_engagement_group_practice": {
+        "Description": "looks forward to practicing with friends 1 = not concerned 6 strongly agree",
+        "Derivative": false
+    },
+    "mus_engagement_reflection": {
+        "Description": "music aids thought 1 = not concerned 6 strongly agree",
+        "Derivative": false
+    },
+    "mus_engagement_selfimage": {
+        "Description": "self image improves if can play hard piece 1 = not concerned 6 strongly agree",
+        "Derivative": false
+    },
+    "mus_engagement_group_identification": {
+        "Description": "music taste helps social bonding 1 = not concerned 6 strongly agree",
+        "Derivative": false
+    },
+    "mus_engagement_emotion_expression": {
+        "Description": "dance as an expression of feelings 1 = not concerned 6 strongly agree",
+        "Derivative": false
+    },
+    "mus_engagement_music_when_depressed": {
+        "Description": "seeks music when depressed 1 = not concerned 6 strongly agree",
+        "Derivative": false
+    },
+    "mus_engagement_good_in_group": {
+        "Description": "admired by friends as group musician 1 = not concerned 6 strongly agree",
+        "Derivative": false
+    },
+    "mus_engagement_social_connection": {
+        "Description": "new friends thanks to same music taste 1 = not concerned 6 strongly agree",
+        "Derivative": false
+    },
+    "mus_engagement_physicalexercise_long": {
+        "Description": "music helps sustaining physical effort for longer 1 = not concerned 6 strongly agree",
+        "Derivative": false
+    },
+    "mus_engagement_relief": {
+        "Description": "music is source of relief 1 = not concerned 6 strongly agree",
+        "Derivative": false
+    },
+    "mus_engagement_improvisation": {
+        "Description": "likes and is gratified by improvising 1 = not concerned 6 strongly agree",
+        "Derivative": false
+    },
+    "mus_engagement_dance": {
+        "Description": "likes dancing for staying in shape 1 = not concerned 6 strongly agree",
+        "Derivative": false
+    },
+    "mus_engagement_recognition": {
+        "Description": "seeks approval for playing in form of clapping 1 = not concerned 6 strongly agree",
+        "Derivative": false
+    },
+    "mus_engagement_practice": {
+        "Description": "music also helps improving music theory knowledge 1 = not concerned 6 strongly agree",
+        "Derivative": false
+    },
+    "mus_engagement_help_difficulties": {
+        "Description": "music helps overcoming difficulties 1 = not concerned 6 strongly agree",
+        "Derivative": false
+    },
+    "mus_engagement_theory": {
+        "Description": "music performance quality goes with musical theory knowledge 1 = not concerned 6 strongly agree",
+        "Derivative": false
+    },
+    "mus_engagement_physical_endurance": {
+        "Description": "music aids physical endurance 1 = not concerned 6 strongly agree",
+        "Derivative": false
+    },
+    "cognitive_and_emotional_regulation": {
+        "Description": "index of cognitive and emotional regulation",
+        "Derivative": true
+    },
+    "dance": {
+        "Description": "index of dance",
+        "Derivative": true
+    },
+    "engaged_production": {
+        "Description": "index of engaged music production",
+        "Derivative": true
+    },
+    "ind_mus_train_imt": {
+        "Description": "index of musical training",
+        "Derivative": true
+    },
+    "ind_mus_listening_iml": {
+        "Description": "index of music listening",
+        "Derivative": true
+    },
+    "mus_instr_play_imip": {
+        "Description": "index of musical instrument playing",
+        "Derivative": true
+    },
+    "physical_exercise": {
+        "Description": "index of physical exercise",
+        "Derivative": true
+    },
+    "social_connection": {
+        "Description": "index of social connection",
+        "Derivative": true
+    }
+}
+

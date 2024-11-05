@@ -1,0 +1,20 @@
+{
+    "longname": "Farsi uvular production task",
+    "description": "This file contains the ratings for the Farsi task, by two raters, with the participant id and stimuli. Please note that cumulative score calculations were performed over blocks. When a score was missing altogether, n/a string is provided.",
+    "participant_id": {
+        "description": "participant id",
+        "derivative": false
+    },
+    "score_rater1": {
+        "description": "nativelikeness score rater 1 from 1 to 20",
+        "derivative": false
+    },
+    "score_rater2": {
+        "description": "nativelikeness score rater 2 from 1 to 20",
+        "derivative": false
+    },
+    "trial_type": {
+        "description": "trial type where first number denotes block number, followed by stimulus string, N = native, NN = Non native, final number denoting iteration of trial.",
+        "derivative": false
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "longname": "Hindi dental-retroflex contrast perception test",
+    "participant_id": {
+        "description": "participant id",
+        "units": "n/a",
+        "levels": "n/a"
+    },
+    "hindi_corr": {
+        "description": "correct responses",
+        "units": "n/a",
+        "levels": {
+            "0": false,
+            "1": true
+        }
+    },
+    "hindi_incorr": {
+        "description": "incorrect responses",
+        "units": "n/a",
+        "levels": {
+            "0": false,
+            "1": true
+        }
+    },
+    "hindi_RT": {
+        "description": "reaction time",
+        "units": "ms",
+        "levels": "n/a"
+    },
+    "hindi_block": {
+        "description": "block number",
+        "units": "n/a",
+        "levels": "n/a"
+    },
+    "display": {
+        "description": "display type and sequence. Only 'train' is maintained, while 'familiarization' was discarded before sharing these data. It means that there is only real task data here and no sample trials.",
+        "units": "n/a",
+        "levels": "n/a"
+    }
+}

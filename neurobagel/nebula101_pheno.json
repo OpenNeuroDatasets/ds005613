@@ -1,0 +1,46 @@
+{
+    "participant_id": {
+        "Description": "A participant ID",
+        "Annotations": {
+            "IsAbout": {
+                "Label": "Subject Unique Identifier",
+                "TermURL": "nb:ParticipantID"
+            },
+            "Identifies": "participant"
+        }
+    },
+    "age": {
+        "Annotations": {
+            "IsAbout": {
+                "Label": "Age",
+                "TermURL": "nb:Age"
+            },
+            "Transformation": {
+                "Label": "float value",
+                "TermURL": "nb:FromFloat"
+            },
+            "MissingValues": []
+        },
+        "Description": ""
+    },
+    "Sex": {
+        "Annotations": {
+            "IsAbout": {
+                "Label": "Sex",
+                "TermURL": "nb:Sex"
+            },
+            "Levels": {
+                "f": {
+                    "Label": "Female",
+                    "TermURL": "snomed:248152002"
+                },
+                "m": {
+                    "Label": "Male",
+                    "TermURL": "snomed:248153007"
+                }
+            },
+            "MissingValues": []
+        },
+        "Description": ""
+    }
+}

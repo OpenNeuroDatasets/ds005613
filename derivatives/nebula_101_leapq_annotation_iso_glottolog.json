@@ -1,0 +1,13 @@
+{
+    "LongName": "Data Dictionary for nebula_101_leapq_annotation_iso_glottolog.json",
+    "Description": "This JSON file provides a data dictionary for the corresponding TSV file.",
+    "leapq": {
+        "Description": "Language names as entered by participant in the LEAP-Q"
+    },
+    "ISO_639-3": {
+        "Description": "Language names conformed to ISO 639-3 https://iso639-3.sil.org/"
+    },
+    "Glottolog": {
+        "Description": "Language names conformed to Glottolog https://glottolog.org/"
+    }
+}
