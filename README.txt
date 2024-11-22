@@ -4,7 +4,7 @@ The README is the starting point for researchers using NEBULA101.
 
 ## Details Related to Access to the Data
 
-- **Data User Agreement**:  Data are publicly available under CC0 license and anonymised.
+- **Data User Agreement**:  Data are publicly available under CC0 license and fully anonymised.
 
 - **Contact Person**: 
   - **Name**: Alessandra Rampinini, PhD
