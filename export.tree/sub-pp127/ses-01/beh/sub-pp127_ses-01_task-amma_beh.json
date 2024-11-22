@@ -1,0 +1,22 @@
+{
+    "longname": "Advanced measures of music audiation",
+    "amma_corr": {
+        "description": "correct responses",
+        "units": "n/a",
+        "levels": {
+            "0": false,
+            "1": true
+        }
+    },
+    "participant_id": {
+        "description": "participant id",
+        "units": "n/a",
+        "levels": "n/a"
+    },
+    "amma_response": {
+        "description": "actual response given in the AMMA test as demanded by the task: R = rhythm difference; M = melody difference; I = identical",
+        "units": "n/a",
+        "levels": "n/a"
+    }
+}
+

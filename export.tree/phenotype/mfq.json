@@ -1,0 +1,193 @@
+{
+    "LongName": "Motivation Factor Questionnaire",
+    "Description": "This JSON file provides a data dictionary for the MFQ data contained in the corresponding TSV file.",
+    "participant_id": {
+        "Description": "participant ids",
+        "Derivative": false
+    },
+    "lang_important": {
+        "Description": "are languages important in today's world 1 strongly disagree 5 strongly agree",
+        "Derivative": false
+    },
+    "lang_important_culture1": {
+        "Description": "are languages a means to become more cultivated 1 strongly disagree 5 strongly agree",
+        "Derivative": false
+    },
+    "lang_important_career": {
+        "Description": "are languages important for the career 1 strongly disagree 5 strongly agree",
+        "Derivative": false
+    },
+    "likelihood_initiate_fl_presentation": {
+        "Description": "likely to initiate an introduction in a foreign language 1 strongly disagree 5 strongly agree",
+        "Derivative": false
+    },
+    "likelihood_initiate_fl_acquaintance_inpublic": {
+        "Description": "likely to talk to acquaintance in foreign language in public 1 strongly disagree 5 strongly agree",
+        "Derivative": false
+    },
+    "likelihood_initiate_fl_shop": {
+        "Description": "likely to initiate conversation in foreign language in shop 1 strongly disagree 5 strongly agree",
+        "Derivative": false
+    },
+    "likelihood_initiate_fl_strangers_group": {
+        "Description": "likely to initiate speaking in foreign language in a strangers group 1 strongly disagree 5 strongly agree",
+        "Derivative": false
+    },
+    "likelihood_initiate_fl_friend_inpublic": {
+        "Description": "likely to initiate conversation in foreign language in public with friends 1 strongly disagree 5 strongly agree",
+        "Derivative": false
+    },
+    "likelihood_initiate_fl_stranger_inpublic": {
+        "Description": "likely to talk to a stranger in public in foreign language 1 strongly disagree 5 strongly agree",
+        "Derivative": false
+    },
+    "likelihood_initiate_fl_acquaintances_group": {
+        "Description": "likely to initiate foreign language conversation in acquaintance group 1 strongly disagree 5 strongly agree",
+        "Derivative": false
+    },
+    "likelihood_initiate_fl_friends_group": {
+        "Description": "likely to initiate foreign language conversation in friends group 1 strongly disagree 5 strongly agree",
+        "Derivative": false
+    },
+    "confidence_learn_fl": {
+        "Description": "confident that can learn foreign languages 1 strongly disagree 5 strongly agree",
+        "Derivative": false
+    },
+    "lang_important_culture2": {
+        "Description": "are foreign languages important for culture (2) 1 strongly disagree 5 strongly agree",
+        "Derivative": false
+    },
+    "likelihood_fl_bettercareer": {
+        "Description": "can improve career through foreign languages 1 strongly disagree 5 strongly agree",
+        "Derivative": false
+    },
+    "necessity_fl_futureplans": {
+        "Description": "are languages a necessity for future plans 1 strongly disagree 5 strongly agree",
+        "Derivative": false
+    },
+    "likelihood_fl_meetfriends": {
+        "Description": "likely to meet new friends through foreign languages 1 strongly disagree 5 strongly agree",
+        "Derivative": false
+    },
+    "nervous_use_fl": {
+        "Description": "nervous about using languages 1 strongly disagree 5 strongly agree",
+        "Derivative": false
+    },
+    "study_fl_travel": {
+        "Description": "studies foreign languages to travel 1 strongly disagree 5 strongly agree",
+        "Derivative": false
+    },
+    "lang_important_culture3": {
+        "Description": "languages important for culture (3) 1 strongly disagree 5 strongly agree",
+        "Derivative": false
+    },
+    "imagine_self_good_at_fl": {
+        "Description": "can easily imagine self as a good foreign language speaker 1 strongly disagree 5 strongly agree",
+        "Derivative": false
+    },
+    "desire_learn_fl_international_contact1": {
+        "Description": "desires to learn foreign languages for international contact 1 strongly disagree 5 strongly agree",
+        "Derivative": false
+    },
+    "desire_learn_fl_forpleasure1": {
+        "Description": "desires to learn foreign languages for pleasure 1 strongly disagree 5 strongly agree",
+        "Derivative": false
+    },
+    "nervous_speak_with_native": {
+        "Description": "nervous to speak with a native 1 strongly disagree 5 strongly agree",
+        "Derivative": false
+    },
+    "desire_learn_fl_international_contact2": {
+        "Description": "desires to learn languages for international contact (2) 1 strongly disagree 5 strongly agree",
+        "Derivative": false
+    },
+    "desire_learn_fl_travel": {
+        "Description": "would like to learn languages for travel 1 strongly disagree 5 strongly agree",
+        "Derivative": false
+    },
+    "imagine_use_fl_international_context": {
+        "Description": "imagines self using foreign languages in international contexts 1 strongly disagree 5 strongly agree",
+        "Derivative": false
+    },
+    "importance_fl_future": {
+        "Description": "languages are important for the future 1 strongly disagree 5 strongly agree",
+        "Derivative": false
+    },
+    "importance_fl_international_contact": {
+        "Description": "languages are important to know international people 1 strongly disagree 5 strongly agree",
+        "Derivative": false
+    },
+    "desire_learn_fl_future": {
+        "Description": "desires learning for better future 1 strongly disagree 5 strongly agree",
+        "Derivative": false
+    },
+    "nervous_fl_give_indications": {
+        "Description": "nervous to give indication in foreign language",
+        "Derivative": false
+    },
+    "desire_learn_fl_forpleasure2": {
+        "Description": "desires learning for the pleasure (2) 1 strongly disagree 5 strongly agree",
+        "Derivative": false
+    },
+    "environment_despise_fl": {
+        "Description": "environment despises learning new languages 1 strongly disagree 5 strongly agree",
+        "Derivative": false
+    },
+    "environment_like_fl": {
+        "Description": "environment approves of learning foreign languages 1 strongly disagree 5 strongly agree",
+        "Derivative": false
+    },
+    "environment_notimportant_fl": {
+        "Description": "environment thinks languages are not important 1 strongly disagree 5 strongly agree",
+        "Derivative": false
+    },
+    "personal_notimportant_fl": {
+        "Description": "participant thinks languages are not important 1 strongly disagree 5 strongly agree",
+        "Derivative": false
+    },
+    "personal_difficult_fl": {
+        "Description": "participant finds languages difficult 1 strongly disagree 5 strongly agree",
+        "Derivative": false
+    },
+    "personal_nervous_speak_fl": {
+        "Description": "participant is nervous speaking languages 1 strongly disagree 5 strongly agree",
+        "Derivative": false
+    },
+    "personal_deprecate_knowledge_fl": {
+        "Description": "participant deprecates languages 1 strongly disagree 5 strongly agree",
+        "Derivative": false
+    },
+    "ideal_l2_self": {
+        "Description": "idealisation of self as a foreign language speaker",
+        "Derivative": true
+    },
+    "instrumentality": {
+        "Description": "instrumentality of foreign languages: how useful they are",
+        "Derivative": true
+    },
+    "intl_contact": {
+        "Description": "international contact related to foreign languages",
+        "Derivative": true
+    },
+    "l2_interest": {
+        "Description": "interest for foreign languages",
+        "Derivative": true
+    },
+    "l2_anxiety": {
+        "Description": "anxiety towards foreign languages",
+        "Derivative": true
+    },
+    "l2_confidence": {
+        "Description": "confidence in using foreign languages",
+        "Derivative": true
+    },
+    "milieu": {
+        "Description": "foreign languages in the context of the participant: how regarded they are",
+        "Derivative": true
+    },
+    "usage_willingness": {
+        "Description": "willingness to use foreign languages",
+        "Derivative": true
+    }
+}
+

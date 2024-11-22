@@ -1,0 +1,113 @@
+{
+    "LongName": "Data Dictionary for nebula_101_leapq_data.json",
+    "Description": "This JSON file provides a data dictionary for the corresponding TSV file.",
+    "participant_id": {
+        "Description": "participant ids"
+    },
+    "age": {
+        "Description": "age in years"
+    },
+    "nlang": {
+        "Description": "number of languages (Data type: ordinal, Scale type: nan, Score type: nan)"
+    },
+    "sex": {
+        "Description": "biological sex assigned at birth"
+    },
+    "edu": {
+        "Description": "education level in years"
+    },
+    "entropy_competence_speak": {
+        "Description": "summary measure of speaking competence of all languages (Data type: ordinal, Scale type: nan, Score type: individual score)"
+    },
+    "entropy_competence_read": {
+        "Description": "summary measure of comprehension competence of all languages (Data type: ordinal, Scale type: nan, Score type: individual score)"
+    },
+    "entropy_competence_compr": {
+        "Description": "summary measure of reading competence of all languages (Data type: ordinal, Scale type: nan, Score type: individual score)"
+    },
+    "entropy_curr_tot_exp": {
+        "Description": "summary measure of current exposure to all languages (Data type: ordinal, Scale type: nan, Score type: individual score)"
+    },
+    "1langname_dominance": {
+        "Description": "language name in order of dominance (Data type: categorical, Scale type: nan, Score type: nan)"
+    },
+    "1env_country": {
+        "Description": "% of time spent in country where languages 1 to max are spoken (Data type: ordinal, Scale type: percentage, Score type: individual score)"
+    },
+    "1env_fam": {
+        "Description": "% of time spent in family where languages 1 to max are spoken (Data type: ordinal, Scale type: percentage, Score type: individual score)"
+    },
+    "1env_eduwrk": {
+        "Description": "% of time spent in school or work where languages 1 to max are spoken (Data type: ordinal, Scale type: percentage, Score type: individual score)"
+    },
+    "1env_other": {
+        "Description": "% of time spent in other contexts where languages 1 to max are spoken (Data type: ordinal, Scale type: percentage, Score type: individual score)"
+    },
+    "1speak_choice": {
+        "Description": "% speaking choice for languages 1 to max (Data type: ordinal, Scale type: percentage, Score type: individual score)"
+    },
+    "1read_choice": {
+        "Description": "% reading choice for languages 1 to max (Data type: ordinal, Scale type: percentage, Score type: individual score)"
+    },
+    "1curr_tot_exp": {
+        "Description": "% current exposure to languages 1 to max (Data type: ordinal, Scale type: percentage, Score type: individual score)"
+    },
+    "1ageof_acq": {
+        "Description": "age of acquisition of languages 1 to max (Data type: ordinal, Scale type: years and months, Score type: individual score)"
+    },
+    "1ageof_speak": {
+        "Description": "age of speaking of languages 1 to max (Data type: ordinal, Scale type: years and months, Score type: individual score)"
+    },
+    "1ageof_read": {
+        "Description": "age of reading of languages 1 to max (Data type: ordinal, Scale type: years and months, Score type: individual score)"
+    },
+    "1ageof_read_fl": {
+        "Description": "age of reading fluency of languages 1 to max (Data type: ordinal, Scale type: years and months, Score type: individual score)"
+    },
+    "1timespent_country": {
+        "Description": "time spent in country where languages 1 to max are spoken years, months (Data type: ordinal, Scale type: years and months, Score type: individual score)"
+    },
+    "1timespent_fam": {
+        "Description": "time spent in family where languages 1 to max are spoken years, months (Data type: ordinal, Scale type: years and months, Score type: individual score)"
+    },
+    "1timespent_eduwrk": {
+        "Description": "time spent in school or work where languages 1 to max are spoken years, months (Data type: ordinal, Scale type: years and months, Score type: individual score)"
+    },
+    "1timespent_other": {
+        "Description": "time spent in other environments where languages 1 to max are spoken years, months (Data type: ordinal, Scale type: years and months, Score type: individual score)"
+    },
+    "1competence_speak": {
+        "Description": "competence speaking 1 to 10 in languages 1 to max (Data type: ordinal, Scale type: likert, Score type: individual score)"
+    },
+    "1competence_compr": {
+        "Description": "competence comprehending 1 to 10 in languages 1 to max (Data type: ordinal, Scale type: likert, Score type: individual score)"
+    },
+    "1competence_read": {
+        "Description": "competence reading 1 to 10 in languages 1 to max (Data type: ordinal, Scale type: likert, Score type: individual score)"
+    },
+    "1contrib_friends": {
+        "Description": "contribution 1 to 10 of friends to learning languages 1 to max (Data type: ordinal, Scale type: likert, Score type: individual score)"
+    },
+    "1contrib_fam": {
+        "Description": "contribution 1 to 10 of family to learning languages 1 to max (Data type: ordinal, Scale type: likert, Score type: individual score)"
+    },
+    "1contrib_read": {
+        "Description": "contribution 1 to 10 of reading to learning languages 1 to max (Data type: ordinal, Scale type: likert, Score type: individual score)"
+    },
+    "1contrib_apps": {
+        "Description": "contribution 1 to 10 of apps to learning languages 1 to max (Data type: ordinal, Scale type: likert, Score type: individual score)"
+    },
+    "1contrib_video": {
+        "Description": "contribution 1 to 10 of videos to learning languages 1 to max (Data type: ordinal, Scale type: likert, Score type: individual score)"
+    },
+    "1contrib_audio": {
+        "Description": "contribution 1 to 10 of music, podcasts, radio to learning languages 1 to max (Data type: ordinal, Scale type: likert, Score type: individual score)"
+    },
+    "1contrib_life": {
+        "Description": "contribution 1 to 10 of external environment to learning languages 1 to max (Data type: ordinal, Scale type: likert, Score type: individual score)"
+    },
+    "1contrib_edu": {
+        "Description": "contribution 1 to 10 of formal instruction to learning languages 1 to max (Data type: ordinal, Scale type: likert, Score type: individual score)"
+    }
+}
+

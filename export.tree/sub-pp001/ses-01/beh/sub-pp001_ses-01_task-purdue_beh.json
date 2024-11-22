@@ -1,0 +1,87 @@
+{
+    "longname": "Purdue Pegboard Test",
+    "participant_id": {
+        "description": "participant id",
+        "derivative": false
+    },
+    "purdue_dh1": {
+        "description": "dominant hand trial 1",
+        "derivative": false
+    },
+    "purdue_dh2": {
+        "description": "dominant hand trial 2",
+        "derivative": false
+    },
+    "purdue_dh3": {
+        "description": "dominant hand trial 3",
+        "derivative": false
+    },
+    "purdue_ndh1": {
+        "description": "nondominant hand trial 1",
+        "derivative": false
+    },
+    "purdue_ndh2": {
+        "description": "nondominant hand trial 2",
+        "derivative": false
+    },
+    "purdue_ndh3": {
+        "description": "nondominant hand trial 3",
+        "derivative": false
+    },
+    "purdue_both1": {
+        "description": "both hands trial 1",
+        "derivative": false
+    },
+    "purdue_both2": {
+        "description": "both hands trial 2",
+        "derivative": false
+    },
+    "purdue_both3": {
+        "description": "both hands trial 3",
+        "derivative": false
+    },
+    "purdue_assembly1": {
+        "description": "assembly trial 1",
+        "derivative": false
+    },
+    "purdue_assembly2": {
+        "description": "assembly trial 2",
+        "derivative": false
+    },
+    "purdue_assembly3": {
+        "description": "assembly trial 3",
+        "derivative": false
+    },
+    "purdue_dh_ndh_both1": {
+        "description": "average of dominant, nondominant and both hands trial 1",
+        "derivative": true
+    },
+    "purdue_dh_ndh_both2": {
+        "description": "average of dominant, nondominant and both hands trial 2",
+        "derivative": true
+    },
+    "purdue_dh_ndh_both3": {
+        "description": "average of dominant, nondominant and both hands trial 3",
+        "derivative": true
+    },
+    "purdue_dh_avg": {
+        "description": "average of all dominant hand trials",
+        "derivative": true
+    },
+    "purdue_ndh_avg": {
+        "description": "average of all nondominant hand trials",
+        "derivative": true
+    },
+    "purdue_both_avg": {
+        "description": "average of all both hand trials",
+        "derivative": true
+    },
+    "purdue_dh_ndh_both_avg": {
+        "description": "average of all dominant, nondominant and both hand trials",
+        "derivative": true
+    },
+    "purdue_assembly_avg": {
+        "description": "average of all assembly trials",
+        "derivative": true
+    }
+}

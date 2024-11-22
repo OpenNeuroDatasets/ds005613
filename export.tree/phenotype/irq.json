@@ -1,0 +1,169 @@
+{
+    "LongName": "Internal Reasoning Questionnaire",
+    "Description": "This JSON file provides a data dictionary for the IRQ data contained in the corresponding TSV file.",
+    "participant_id": {
+        "Description": "participant ids",
+        "Derivative": false
+    },
+    "visual_memory_evoke": {
+        "Description": "frequently uses mental imagery to evoke seen scene 1 strongly disagree, 5 strongly agree",
+        "Derivative": false
+    },
+    "visual_memory_autobiographical": {
+        "Description": "frequent use of visual autobiographical memory 1 strongly disagree, 5 strongly agree",
+        "Derivative": false
+    },
+    "visual_images_clarity": {
+        "Description": "clarity of visual imagery 1 strongly disagree, 5 strongly agree",
+        "Derivative": false
+    },
+    "visual_images_over_words": {
+        "Description": "prefers visual images over words 1 strongly disagree, 5 strongly agree",
+        "Derivative": false
+    },
+    "visual_images_people": {
+        "Description": "ease of visual imagery of known persons 1 strongly disagree, 5 strongly agree",
+        "Derivative": false
+    },
+    "visual_images_to_memorize": {
+        "Description": "using visual imagery to remember things 1 strongly disagree, 5 strongly agree",
+        "Derivative": false
+    },
+    "visual_memories_prevalence": {
+        "Description": "prevalence of visual memories 1 strongly disagree, 5 strongly agree",
+        "Derivative": false
+    },
+    "visual_images_thoughts": {
+        "Description": "visual imagery over verbal thoughts 1 strongly disagree, 5 strongly agree",
+        "Derivative": false
+    },
+    "visual_images_inner_talk": {
+        "Description": "visual images when self-talk 1 strongly disagree, 5 strongly agree",
+        "Derivative": false
+    },
+    "visual_memory_fixed": {
+        "Description": "visual memories often fixed rather than in motion 1 strongly disagree, 5 strongly agree",
+        "Derivative": false
+    },
+    "verbal_reflection_innervoice": {
+        "Description": "inner talk present 1 strongly disagree, 5 strongly agree",
+        "Derivative": false
+    },
+    "verbal_reflection_innervoice_walk": {
+        "Description": "engages in inner talk when walking 1 strongly disagree, 5 strongly agree",
+        "Derivative": false
+    },
+    "verbal_reflection_past_conversations": {
+        "Description": "hears past conversations while walking 1 strongly disagree, 5 strongly agree",
+        "Derivative": false
+    },
+    "verbal_innervoice_help_thoughts": {
+        "Description": "inner talk helps imagination and creativity 1 strongly disagree, 5 strongly agree",
+        "Derivative": false
+    },
+    "verbal_reflection_at_rest": {
+        "Description": "when resting, has a tendence to reflect verbally 1 strongly disagree, 5 strongly agree",
+        "Derivative": false
+    },
+    "verbal_reflection_societal_issue": {
+        "Description": "inner talk about societal issues 1 strongly disagree, 5 strongly agree",
+        "Derivative": false
+    },
+    "verbal_reflection_pauses_tothink": {
+        "Description": "takes pauses to have time to self-talk 1 strongly disagree, 5 strongly agree",
+        "Derivative": false
+    },
+    "verbal_reflection_innervoice_innerear": {
+        "Description": "hears inner voice in ears 1 strongly disagree, 5 strongly agree",
+        "Derivative": false
+    },
+    "verbal_reflection_never_talk": {
+        "Description": "never expresses thoughts out loud 1 strongly disagree, 5 strongly agree (reversed)",
+        "Derivative": false
+    },
+    "verbal_reflection_tv": {
+        "Description": "inner voice when watching tv 1 strongly disagree, 5 strongly agree",
+        "Derivative": false
+    },
+    "verbal_memories_prevalence": {
+        "Description": "verbal memories are prevalent 1 strongly disagree, 5 strongly agree",
+        "Derivative": false
+    },
+    "verbal_read_innervoice_innerear": {
+        "Description": "inner voice present when reading 1 strongly disagree, 5 strongly agree",
+        "Derivative": false
+    },
+    "orto_conversation_visualizewords": {
+        "Description": "when hearing people speak, sees written words 1 strongly disagree, 5 strongly agree",
+        "Derivative": false
+    },
+    "orto_reflection_visualizewords": {
+        "Description": "when thinking, sees written words 1 strongly disagree, 5 strongly agree",
+        "Derivative": false
+    },
+    "orto_newperson_imaginename": {
+        "Description": "sees written name of new person when introduced 1 strongly disagree, 5 strongly agree",
+        "Derivative": false
+    },
+    "orto_memories_imaginewords": {
+        "Description": "imagines written documents to remember them better 1 strongly disagree, 5 strongly agree",
+        "Derivative": false
+    },
+    "verbal_reflection_liferecap": {
+        "Description": "hears recap of actions 1 strongly disagree, 5 strongly agree",
+        "Derivative": false
+    },
+    "message_imagine_reply": {
+        "Description": "imagines reply to messages prior to sending them 1 strongly disagree, 5 strongly agree",
+        "Derivative": false
+    },
+    "geo_3d_shapes": {
+        "Description": "easily rotates imaginary shape in 3d 1 strongly disagree, 5 strongly agree",
+        "Derivative": false
+    },
+    "sentence_slow_imagine_innerear": {
+        "Description": "easily imagines a slowed down sentence pronounced in head 1 strongly disagree, 5 strongly agree",
+        "Derivative": false
+    },
+    "geo_school_grade": {
+        "Description": "good at geometry in school 1 strongly disagree, 5 strongly agree",
+        "Derivative": false
+    },
+    "sensation_imagine": {
+        "Description": "can easily imagine feeling of licking a brick 1 strongly disagree, 5 strongly agree",
+        "Derivative": false
+    },
+    "geo_problem_visualise": {
+        "Description": "hard to mentally rotate a shape in 3d 1 strongly disagree, 5 strongly agree (reversed)",
+        "Derivative": false
+    },
+    "voice_morph": {
+        "Description": "easily morphs someone's voice in head 1 strongly disagree, 5 strongly agree",
+        "Derivative": false
+    },
+    "lexicon_rich": {
+        "Description": "rich lexicon in native language 1 strongly disagree, 5 strongly agree",
+        "Derivative": false
+    },
+    "sound_morph": {
+        "Description": "easily morphs trumpet sound in head louder and louder 1 strongly disagree, 5 strongly agree",
+        "Derivative": false
+    },
+    "manipulationfactor": {
+        "Description": "manipulation factor",
+        "Derivative": true
+    },
+    "visualfactor": {
+        "Description": "visual factor",
+        "Derivative": true
+    },
+    "verbalfactor": {
+        "Description": "verbal factor",
+        "Derivative": true
+    },
+    "orthographicfactor": {
+        "Description": "orthographic factor",
+        "Derivative": true
+    }
+}
+

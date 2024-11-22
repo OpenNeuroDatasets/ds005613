@@ -1,0 +1,50 @@
+{
+    "LongName": "Data Dictionary for nebula_101_leapq_langname_order.json",
+    "Description": "This JSON file provides a data dictionary for the corresponding TSV file.",
+    "participant_id": {
+        "Description": "participant ids"
+    },
+    "nlang": {
+        "Description": "number of languages"
+    },
+    "1langname_order": {
+        "Description": "order of acquisition for language name, signaled by number at start of column name"
+    },
+    "2langname_order": {
+        "Description": "order of acquisition for language name, signaled by number at start of column name"
+    },
+    "3langname_order": {
+        "Description": "order of acquisition for language name, signaled by number at start of column name"
+    },
+    "4langname_order": {
+        "Description": "order of acquisition for language name, signaled by number at start of column name"
+    },
+    "5langname_order": {
+        "Description": "order of acquisition for language name, signaled by number at start of column name"
+    },
+    "6langname_order": {
+        "Description": "order of acquisition for language name, signaled by number at start of column name"
+    },
+    "7langname_order": {
+        "Description": "order of acquisition for language name, signaled by number at start of column name"
+    },
+    "8langname_order": {
+        "Description": "order of acquisition for language name, signaled by number at start of column name"
+    },
+    "9langname_order": {
+        "Description": "order of acquisition for language name, signaled by number at start of column name"
+    },
+    "10langname_order": {
+        "Description": "order of acquisition for language name, signaled by number at start of column name"
+    },
+    "11langname_order": {
+        "Description": "order of acquisition for language name, signaled by number at start of column name"
+    },
+    "12langname_order": {
+        "Description": "order of acquisition for language name, signaled by number at start of column name"
+    },
+    "13langname_order": {
+        "Description": "order of acquisition for language name, signaled by number at start of column name"
+    }
+}
+
