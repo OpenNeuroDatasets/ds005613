@@ -1,0 +1,34 @@
+{
+    "longname": "Digit span - forward",
+    "participant_id": {
+        "description": "participant id",
+        "units": "n/a",
+        "levels": "n/a"
+    },
+    "digit-for_corr": {
+        "description": "correct responses",
+        "units": "n/a",
+        "levels": {
+            "0": false,
+            "1": true
+        }
+    },
+    "digit-for_incorr": {
+        "description": "incorrect responses",
+        "units": "n/a",
+        "levels": {
+            "0": false,
+            "1": true
+        }
+    },
+    "digit-for_RT": {
+        "description": "reaction time",
+        "units": "ms",
+        "levels": "n/a"
+    },
+    "digit-for_response": {
+        "description": "the actual sequence of numbers that the subject repeated, whether correct or not, by tapping on the keyboard",
+        "units": "n/a",
+        "levels": "n/a"
+    }
+}

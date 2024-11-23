@@ -1,0 +1,32 @@
+{
+  "participant_id": {
+    "description": "unique participant identifier"
+  },
+  "trial_type": {
+    "description": "trial type levels",
+    "levels": {
+      "intact": "intact native language stimulus",
+      "degraded": "degraded native language stimulus",
+      "foreign": "intact foreign language stimulus",
+      "foreignDegraded": "degraded foreign language stimulus"
+    }
+  },
+  "onset": {
+    "description": "onset of stimulus from first recorded image in seconds"
+  },
+  "duration": {
+    "description": "duration of stimulus in seconds"
+  },
+  "stim_file": {
+    "description": "stimulus filename in aliceloc database"
+  },
+  "mainLanguage": {
+    "description": "main language chosen by participant, corresponds to native language"
+  },
+  "foreignLanguage": {
+    "description": "foreign language chosen by participant, corresponds to second most proficient language"
+  },
+  "identifier": {
+    "description": "identifier of database Alice in Wonderland https://evlab.mit.edu/aliceloc/"
+  }
+}

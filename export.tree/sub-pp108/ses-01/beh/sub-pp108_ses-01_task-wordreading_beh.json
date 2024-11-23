@@ -1,0 +1,120 @@
+{
+    "longname": "Word Reading Test",
+    "Description": "reading lists of regular, irregular and pseudowords taken from the ECLA16+ and EVALEC tests",
+    "participant_id": {
+        "description": "participant id",
+        "derivative": false
+    },
+    "regular1_r1_evalec_acc": {
+        "description": "accuracy evalec regular words list 1. R1: each letter corresponds to one phoneme.",
+        "derivative": false
+    },
+    "regular2_r2_evalec_acc": {
+        "description": "accuracy evalec regular words list 2. R2: items containing a digraph (ch, ou, on-an-in)",
+        "derivative": false
+    },
+    "regular3_r3_evalec_acc": {
+        "description": "accuracy evalec regular words list 3. R3: items containing a contextual grapheme (c?g, a + i + ll)",
+        "derivative": false
+    },
+    "regular4_ecla16_acc": {
+        "description": "accuracy ecla16 regular words list 4",
+        "derivative": false
+    },
+    "irregular1_r4_evalec_acc": {
+        "description": "accuracy evalec irregular words list 1. R4: items containing at least one grapheme with an exceptional pronunciation (x, sc)",
+        "derivative": false
+    },
+    "irregular2_lexlength_evalec_acc": {
+        "description": "accuracy evalec irregular words list 2 lexlength (lexicality and length test) i.e. 10 long and 10 short items",
+        "derivative": true
+    },
+    "irregular3_ecla16_acc": {
+        "description": "accuracy ecla16t irregular words list 3",
+        "derivative": false
+    },
+    "pseudo1_r1_evalec_acc": {
+        "description": "accuracy pseudowords evalec list 1. R1: each letter corresponds to one phoneme.",
+        "derivative": false
+    },
+    "pseudo2_r2_evalec_acc": {
+        "description": "accuracy pseudowords evalec list 2. R2: items containing a digraph (ch, ou, on-an-in)",
+        "derivative": false
+    },
+    "pseudo3_r3_evalec_acc": {
+        "description": "accuracy pseudowords evalec list 3. R3: items containing a contextual grapheme (c?g, a + i + ll)",
+        "derivative": false
+    },
+    "pseudo5_ecla16_acc": {
+        "description": "accuracy pseudowords ecla16 list 5",
+        "derivative": false
+    },
+    "regular1_r1_evalec_rt": {
+        "description": "reaction time evalec regular words list 1. R1: each letter corresponds to one phoneme.",
+        "derivative": false
+    },
+    "regular2_r2_evalec_rt": {
+        "description": "reaction time evalec regular words list 2. R2: items containing a digraph (ch, ou, on-an-in)",
+        "derivative": false
+    },
+    "regular3_r3_evalec_rt": {
+        "description": "reaction time evalec regular words list 3. R3: items containing a contextual grapheme (c?g, a + i + ll)",
+        "derivative": false
+    },
+    "regular4_ecla16_rt": {
+        "description": "reaction time ecla16 regular words list 4",
+        "derivative": false
+    },
+    "irregular1_r4_evalec_rt": {
+        "description": "reaction time evalec irregular words list 1. R4: items containing at least one grapheme with an exceptional pronunciation (x, sc)",
+        "derivative": false
+    },
+    "irregular2_lexlength_evalec_rt": {
+        "description": "reaction time evalec irregular words list 2 lexlength (lexicality and length test) i.e. 10 long and 10 short items",
+        "derivative": true
+    },
+    "irregular3_ecla16_rt": {
+        "description": "reaction time ecla16t irregular words list 3",
+        "derivative": false
+    },
+    "pseudo1_r1_evalec_rt": {
+        "description": "reaction time pseudowords evalec list 1. R1: each letter corresponds to one phoneme.",
+        "derivative": false
+    },
+    "pseudo2_r2_evalec_rt": {
+        "description": "reaction time pseudowords evalec list 2. R2: items containing a digraph (ch, ou, on-an-in)",
+        "derivative": false
+    },
+    "pseudo3_r3_evalec_rt": {
+        "description": "reaction time pseudowords evalec list 3. R3: items containing a contextual grapheme (c?g, a + i + ll)",
+        "derivative": false
+    },
+    "pseudo5_ecla16_rt": {
+        "description": "reaction time pseudowords ecla16 list 5",
+        "derivative": false
+    },
+    "regular_acc": {
+        "description": "average accuracy all regular words",
+        "derivative": true
+    },
+    "irregular_acc": {
+        "description": "average accuracy all irregular words",
+        "derivative": true
+    },
+    "pseudo_acc": {
+        "description": "average accuracy all pseudowords",
+        "derivative": true
+    },
+    "regular_rt": {
+        "description": "average reaction time all regular words",
+        "derivative": true
+    },
+    "irregular_rt": {
+        "description": "average reaction time all irregular words",
+        "derivative": true
+    },
+    "pseudo_rt": {
+        "description": "average reaction time all pseudowords",
+        "derivative": true
+    }
+}

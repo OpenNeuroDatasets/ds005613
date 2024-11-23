@@ -1,0 +1,55 @@
+{
+    "longname": "Rapid Automatised Naming Test",
+    "participant_id": {
+        "description": "participant id",
+        "derivative": false
+    },
+    "ran_obj1_acc": {
+        "description": "objects block 1 accuracy",
+        "derivative": false
+    },
+    "ran_obj1_rt": {
+        "description": "objects block 1 reaction time",
+        "derivative": false
+    },
+    "ran_obj2_acc": {
+        "description": "objects block 2 accuracy",
+        "derivative": false
+    },
+    "ran_obj2_rt": {
+        "description": "objects block 2 reaction time",
+        "derivative": false
+    },
+    "ran_digit1_acc": {
+        "description": "digits block 1 accuracy",
+        "derivative": false
+    },
+    "ran_digit1_rt": {
+        "description": "digits block 1 reaction time",
+        "derivative": false
+    },
+    "ran_digit2_acc": {
+        "description": "digits block 2 accuracy",
+        "derivative": false
+    },
+    "ran_digit2_rt": {
+        "description": "digits block 2 reaction time",
+        "derivative": false
+    },
+    "ran_col1_acc": {
+        "description": "colors block 1 accuracy",
+        "derivative": false
+    },
+    "ran_col1_rt": {
+        "description": "colors block 1 reaction time",
+        "derivative": false
+    },
+    "ran_col2_acc": {
+        "description": "colors block 2 accuracy",
+        "derivative": false
+    },
+    "ran_col2_rt": {
+        "description": "colors block 2 reaction time",
+        "derivative": false
+    }
+}

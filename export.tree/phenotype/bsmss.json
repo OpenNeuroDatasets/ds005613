@@ -1,0 +1,144 @@
+{
+    "LongName": "Barratt simplified measure of social status",
+    "Description": "This JSON file provides a data dictionary for the BSMSS data contained in the corresponding TSV file.",
+    "participant_id": {
+        "Description": "participant id",
+        "Derivative": false
+    },
+    "fulltimestudent": {
+        "Description": "full time student 1 yes 0 no",
+        "Derivative": false
+    },
+    "monoparent": {
+        "Description": "single parent household 1 yes 0 no",
+        "Derivative": false
+    },
+    "incouple": {
+        "Description": "in a couple 1 yes 0 no",
+        "Derivative": false
+    },
+    "parent1edu_student_2parents": {
+        "Description": "parent 1 education if student and 2 parent household",
+        "Derivative": false
+    },
+    "parent2edu_student_2parents": {
+        "Description": "parent 2 education if student and 2 parent household",
+        "Derivative": false
+    },
+    "parent1job_student_2parents": {
+        "Description": "parent 1 job if student and 2 parent household",
+        "Derivative": false
+    },
+    "parent2job_student_2parents": {
+        "Description": "parent 2 job if student and 2 parent household",
+        "Derivative": false
+    },
+    "parent1edu_student_1parent": {
+        "Description": "parent 1 education if student and 1 parent household",
+        "Derivative": false
+    },
+    "parent1job_student_1parent": {
+        "Description": "parent 1 job if student and 1 parent household",
+        "Derivative": false
+    },
+    "parent1edu_worker_1parent_single": {
+        "Description": "parent 1 education if worker and 1 parent household and single",
+        "Derivative": false
+    },
+    "participantedu_worker_1parent_single": {
+        "Description": "participant education if worker and 1 parent household and single",
+        "Derivative": false
+    },
+    "parent1job_worker_1parent_single": {
+        "Description": "parent 1 job if worker and 1 parent household and single",
+        "Derivative": false
+    },
+    "participantjob_worker_1parent_single": {
+        "Description": "participant job if worker and 1 parent household and single",
+        "Derivative": false
+    },
+    "parent1edu_worker_1parent_couple": {
+        "Description": "parent 1 education if worker and 1 parent household and married",
+        "Derivative": false
+    },
+    "partneredu_worker_1parent_couple": {
+        "Description": "partner education if worker and 1 parent household and married",
+        "Derivative": false
+    },
+    "participantedu_worker_1parent_couple": {
+        "Description": "participant education if worker and 1 parent household and married",
+        "Derivative": false
+    },
+    "parent1job_worker_1parent_couple": {
+        "Description": "parent 1 job if worker and 1 parent household and married",
+        "Derivative": false
+    },
+    "partnerjob_worker_1parent_couple": {
+        "Description": "partner job if worker and 1 parent household and married",
+        "Derivative": false
+    },
+    "participantjob_worker_1parent_couple": {
+        "Description": "participant job if worker and 1 parent household and married",
+        "Derivative": false
+    },
+    "parent1edu_worker_2parent_single": {
+        "Description": "parent 1 education if worker and 2 parent household and single",
+        "Derivative": false
+    },
+    "parent2edu_worker_2parent_single": {
+        "Description": "parent 2 education if worker and 2 parent household and single",
+        "Derivative": false
+    },
+    "participantedu_worker_2parent_single": {
+        "Description": "participant education if worker and 2 parent household and single",
+        "Derivative": false
+    },
+    "parent1job_worker_2parent_single": {
+        "Description": "parent 1 job if worker and 2 parent household and single",
+        "Derivative": false
+    },
+    "parent2job_worker_2parent_single": {
+        "Description": "parent 2 job if worker and 2 parent household and single",
+        "Derivative": false
+    },
+    "participantjob_worker_2parent_single": {
+        "Description": "participant job if worker and 2 parent household and single",
+        "Derivative": false
+    },
+    "parent1edu_worker_2parent_couple": {
+        "Description": "parent 1 education if worker and 2 parent household and married",
+        "Derivative": false
+    },
+    "parent2edu_worker_2parent_couple": {
+        "Description": "parent 2 education if worker and 2 parent household and married",
+        "Derivative": false
+    },
+    "partneredu_worker_2parent_couple": {
+        "Description": "partner education if worker and 2 parent household and married",
+        "Derivative": false
+    },
+    "participantedu_worker_2parent_couple": {
+        "Description": "participant education if worker and 2 parent household and married",
+        "Derivative": false
+    },
+    "parent1job_worker_2parent_couple": {
+        "Description": "parent 1 job if worker and 2 parent household and married",
+        "Derivative": false
+    },
+    "parent2job_worker_2parent_couple": {
+        "Description": "parent 2 job if worker and 2 parent household and married",
+        "Derivative": false
+    },
+    "partnerjob_worker_2parent_couple": {
+        "Description": "partner job if worker and 2 parent household and married",
+        "Derivative": false
+    },
+    "participantjob_worker_2parent_couple": {
+        "Description": "participant job if worker and 2 parent household and married",
+        "Derivative": false
+    },
+    "bsmss": {
+        "Description": "Barratt simplified measure of social status derivate score",
+        "Derivative": true
+    }
+}
